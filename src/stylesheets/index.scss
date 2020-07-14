@@ -1,0 +1,15 @@
+body {
+  background: #beb4b4;
+}
+
+.nav-link {
+  cursor: pointer;
+
+  &:hover {
+    color: #007bff;
+  }
+}
+
+.card-img-top {
+  height: 235px;
+}
